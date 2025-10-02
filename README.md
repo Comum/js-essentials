@@ -8,3 +8,4 @@ This is a list of topics around JS. It can contain more than just JS, maybe a bi
 1. [Variable data types](types/VARIABLE_DATA_TYPES.md)
 2. [The this keyword](this/THIS.md)
 3. [Closures](closure/CLOSURE.md)
+4. [Hoisting](hoisting/HOISTING.md)
